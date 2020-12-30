@@ -1,0 +1,18 @@
+python features:
+1. FLOSS(Free library and Open  source software)
+2. portable ( Code written for windows and also work for mac)
+3. Easy to code
+4. Dynamically typed (You dont need to define data type, itself manages while run time)
+5. Interpreted ( code execute step by step)
+6. Expressive ( It helps us to focus more on solution rather than the syntax)
+7. Easy to read
+8. large standard library
+9. High level language
+
+Create Virtual environment using visual studio code in python::
+ 1. open powershell in that folder
+ 2. virtualenv envl
+ 3. activate
+ 4. pip freeze > requirements.txt
+ 4. code .
+ 
