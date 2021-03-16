@@ -99,7 +99,8 @@ def check_diagonal(a,b,c):
         return game_on == False
     else:
         return game_on == True 
-        
+
+  
 
 
 
@@ -125,7 +126,7 @@ def main():
         check_diagonal(board[0][0], board[1][1], board[2][2])
         check_diagonal(board[0][2], board[1][1], board[2][0])
         
-        print_board(board)
+        print (print_board(board))
         game_tie()
 
 
